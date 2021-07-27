@@ -1,2 +1,3 @@
 # Weather
-Find the Weather Information of the City
+Find the Current Weather Information of the City.
+Current temperature, Humidity and Wind speed  
